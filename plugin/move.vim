@@ -293,6 +293,4 @@ if g:move_map_keys
 
     execute 'nmap' s:MoveKey('j') '<Plug>MoveLineDown'
     execute 'nmap' s:MoveKey('k') '<Plug>MoveLineUp'
-    execute 'nmap' s:MoveKey('h') '<Plug>MoveCharLeft'
-    execute 'nmap' s:MoveKey('l') '<Plug>MoveCharRight'
 endif
